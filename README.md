@@ -1,4 +1,4 @@
- FreeNux - hooby os create in assembly
+ # FreeNux - hooby os create in assembly
 
 * # build instructions
    - requirements
